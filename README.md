@@ -1,7 +1,5 @@
 <h3 align="center">Mohammad Ali Ustad</h3>
 
-<img align="right" src="https://media1.tenor.com/m/6cB00Fl1QXYAAAAd/gojo-satoru-gojo.gif">
-
 - I’m currently working on **Weather Application Project**
 
 - I’m looking to collaborate on **Beginner Android Projects**
