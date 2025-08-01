@@ -33,7 +33,7 @@
 </h2>
 
 <p align="center">
-  <i>"Crafting elegant solutions through clean architecture and continuous improvement"</i>
+  <i>"Crafting elegant solutions through clean architecture and continuous "</i>
 </p>
 
 <br/>
