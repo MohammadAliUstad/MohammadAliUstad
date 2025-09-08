@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1 align="center" style="border: 0;margin-top: -70px;">
-    <b>Mohammad Ali</b>
+    <b>Moham Ali</b>
   </h1>
   
   <p align="center" style="margin-top: -5px;font-size: 26px;">
