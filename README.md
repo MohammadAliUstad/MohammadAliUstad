@@ -9,7 +9,7 @@
   </h1>
   
   <p align="center" style="margin-top: -5px;font-size: 26px;">
-    <em>Android Developer</em>
+    <em>Python Developer</em>
   </p>
 </div>
 
