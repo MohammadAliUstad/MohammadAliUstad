@@ -1,193 +1,139 @@
-<!-- Header with gradient banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=e65d5d,f07b3f,ea4335,ff9966&height=150&section=header&animation=fadeIn" width="100%">
-</div>
-
-<div align="center">
-  <h1 align="center" style="border: 0;margin-top: -70px;">
-    <b>Mohammad Ali</b>
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:1a1a1a&height=180&section=header&text=Mohammad%20Ali&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20Enthusiast&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
   
-  <p align="center" style="margin-top: -5px;font-size: 26px;">
-    <em>Android Developer</em>
-  </p>
-</div>
-
-<!-- Professional social badge -->
-<div align="center">
+  <br/>
+  
   <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br/>
-<br/>
 
-<!-- Neural network divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <h3><i>"Crafting elegant mobile experiences through clean architecture."</i></h3>
+  <p width="600px">
+    I am an <b>Android Developer</b> passionate about building polished, user-centric applications. <br/>
+    Specializing in <b>Kotlin</b> and <b>Jetpack Compose</b>, I focus on writing maintainable code <br/>
+    and creating seamless animations. Currently building <b>Kaizen</b> to help people level up their lives.
+  </p>
 </div>
 
-<h2 align="center">
-  <b>About Me</b>
-</h2>
-
-<p align="center">
-  <i>"Crafting elegant solutions through clean architecture and continuous improvement"</i>
-</p>
-
 <br/>
 
-- 👨‍💻 I build Android apps with **Kotlin** & **Jetpack Compose** using Clean Architecture and MVVM
-- 📱 Currently working on **Kaizen**, a self-improvement & habit tracking app
-- 🌱 Constantly exploring new tools like **Flutter** and **Ktor** to expand my horizons
-- 🎯 Inspired by craftsmanship and the pursuit of continuous improvement
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-<br/>
-<br/>
-
-<!-- Neural network divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<h2 align="center">
-  <b>Tech Stack</b>
-</h2>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  
+  <br/>
+  
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design" />
-  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
   <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
-  <img src="https://img.shields.io/badge/Dagger%20Hilt-2196F3?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt" />
+  <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Dagger%20Hilt-2196F3?style=for-the-badge&logo=dagger&logoColor=white" alt="Hilt" />
   <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge&logo=clean&logoColor=white" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/MVVM-FF9900?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="DataStore" />
-</p>
+  <img src="https://img.shields.io/badge/MVVM-FF9900?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM" />
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🧬 Kaizen</h3>
+      <a href="#">
+        <img src="https://i.pinimg.com/originals/03/41/04/034104234a336e35682bb77db7aba6e7.gif" width="100%" style="border-radius: 10px; max-width: 350px;" alt="Kaizen Demo">
+      </a>
+      <p align="center">
+        <i>Self-improvement & habit tracking app.</i>
+        <br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Kotlin-000?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Compose-000?style=flat-square&logo=jetpack-compose&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=white"/>
+      </p>
+    </td>
+    
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🍱 Ryori</h3>
+      <a href="#">
+        <img src="https://i.pinimg.com/originals/c0/8b/79/c08b79a7c0ecd7685aaf202d8f94fb18.gif" width="100%" style="border-radius: 10px; max-width: 350px;" alt="Ryori Demo">
+      </a>
+      <p align="center">
+        <i>A delightful recipe discovery app.</i>
+        <br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Retrofit-000?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hilt-000?style=flat-square&logo=dagger&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Material3-000?style=flat-square&logo=material-design&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">📝 Shuki</h3>
+      <a href="#">
+        <img src="https://i.pinimg.com/originals/48/5e/83/485e83569fff861c92baae936e9d45af.gif" width="100%" style="border-radius: 10px; max-width: 350px;" alt="Shuki Demo">
+      </a>
+      <p align="center">
+        <i>Minimalist offline note-taking.</i>
+        <br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Room-000?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Coroutines-000?style=flat-square&logo=kotlin&logoColor=white"/>
+      </p>
+    </td>
+
+    <td width="50%" align="center" valign="top">
+      <h3 align="center">🧩 Other Works</h3>
+      <br/>
+      <div align="left" style="background-color: #1a1a1a; padding: 20px; border-radius: 10px; border: 1px solid #333;">
+        
+        <b>⛅ Tenki</b> <br/>
+        <i>Real-time weather with Material 3 UI.</i> <br/>
+        <code>Retrofit</code> <code>Moshi</code>
+        <br/><br/>
+        
+        <b>🧮 Keisan</b> <br/>
+        <i>Fast, intuitive calculator.</i> <br/>
+        <code>Jetpack Compose</code> <code>Clean UI</code>
+        <br/><br/>
+        
+        <b>🧠 DSA in Kotlin</b> <br/>
+        <i>Algorithm solutions and data structures.</i> <br/>
+        <code>Algorithms</code> <code>Problem Solving</code>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Neural network divider -->
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark&bg_color=00000000&hide_border=true&title_color=3DDC84&icon_color=7F52FF&text_color=ffffff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=dark&bg_color=00000000&hide_border=true&title_color=3DDC84&text_color=ffffff" height="150" alt="Top Languages" />
 </div>
 
-<h2 align="center">
-  <b>Featured Projects</b>
-</h2>
+<br/>
+<br/>
 
-<div class="projects" align="center">
-  <table cellspacing="0" cellpadding="0" style="border-spacing: 15px;">
-    <tr>
-      <td width="50%">
-        <h3 align="center">Kaizen</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/03/41/04/034104234a336e35682bb77db7aba6e7.gif" width="400" alt="Kaizen" style="border-radius: 10px;">
-          </a>
-          <p style="padding: 10px 20px;">
-            A self-improvement & habit tracking app to help you level up in real life, one habit at a time
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Ryori</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/c0/8b/79/c08b79a7c0ecd7685aaf202d8f94fb18.gif" width="400" alt="Ryori" style="border-radius: 10px;">
-          </a>
-          <p style="padding: 10px 20px;">
-            A recipe discovery app with clean interface that brings delicious recipes right to your fingertips
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Dagger_Hilt-6DB33F?style=for-the-badge&logo=dagger&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Tenki</h3>
-        <div align="center">
-          <p style="padding: 10px 20px;">
-            Minimalist weather app providing real-time forecasts with beautiful UI
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Moshi-00BFFF?style=for-the-badge&logo=json&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Shuki</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/48/5e/83/485e83569fff861c92baae936e9d45af.gif" width="400" alt="Shuki" style="border-radius: 10px;">
-          </a>
-          <p style="padding: 10px 20px;">
-            Offline notes app designed for quick and efficient note-taking
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Keisan</h3>
-        <div align="center">
-          <p style="padding: 10px 20px;">
-            A fast and intuitive calculator app built for everyday use
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">DSA</h3>
-        <div align="center">
-          <p style="padding: 10px 20px;">
-            A collection of Data Structures & Algorithms problems solved in Kotlin
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Clean%20Code-FF6B6B?style=for-the-badge&logo=clean&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Neural network divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:1a1a1a&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
-
-<p align="center" style="margin: 20px 0;">
-  <i>"In the world of software, excellence is not a destination but a continuous journey of improvement"</i>
-</p>
