@@ -1,25 +1,22 @@
 <div align="center">
-  <h1 align="center" style="border: 0;margin-top: -70px;">
+  <h1 align="center" style="border: 0;">
     <b>Mohammad Ali</b>
   </h1>
 
-  <p align="center" style="margin-top: -5px;font-size: 26px;">
+  <p align="center" style="font-size: 26px;">
     <em>Android Developer</em>
   </p>
 </div>
 
-<!-- Professional social badge -->
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammad-ali-ustad-700516228/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-
-
-
   </a>
 </div>
 
 <br/>
-<br/>
+
+---
 
 <h2 align="center">
   <b>About Me</b>
@@ -37,7 +34,8 @@
 - Inspired by craftsmanship and the pursuit of continuous improvement
 
 <br/>
-<br/>
+
+---
 
 <h2 align="center">
   <b>Tech Stack</b>
@@ -48,22 +46,17 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-
-
-
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material Design" />
   <img src="https://img.shields.io/badge/Retrofit-3DDC84?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit" />
   <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room" />
   <img src="https://img.shields.io/badge/Dagger%20Hilt-2196F3?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt" />
-
-
-
-
   <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Clean%20Architecture-FF6B6B?style=for-the-badge&logo=clean&logoColor=white" alt="Clean Architecture" />
   <img src="https://img.shields.io/badge/MVVM-FF9900?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM" />
@@ -71,16 +64,47 @@
   <img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="DataStore" />
 </p>
 
-
-
 <br/>
+
+---
 
 <h2 align="center">
   <b>Featured Projects</b>
 </h2>
 
+<br/>
+
 <div class="projects" align="center">
   <table cellspacing="0" cellpadding="0" style="border-spacing: 15px;">
+    <tr>
+      <td width="50%">
+        <h3 align="center">Sessions</h3>
+        <div align="center">
+          <p style="padding: 10px 20px;">
+            Productivity timer app built with Kotlin, Jetpack Compose, Firebase, Room Database, and Material 3. Follows MVVM Clean Architecture to help users maximize focus with session tracking and analytics
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white"/>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Kyoiku</h3>
+        <div align="center">
+          <p style="padding: 10px 20px;">
+            Educational management app built with Flutter and Dart for seamless teacher-student collaboration. Features real-time chatting, lecture scheduling, and secure note uploading/downloading
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+          </p>
+        </div>
+      </td>
+    </tr>
     <tr>
       <td width="50%">
         <h3 align="center">Kaizen</h3>
@@ -137,34 +161,12 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Keisan</h3>
-        <div align="center">
-          <p style="padding: 10px 20px;">
-            A fast and intuitive calculator app built for everyday use
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Material_3-757575?style=for-the-badge&logo=material-design&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">DSA</h3>
-        <div align="center">
-          <p style="padding: 10px 20px;">
-            A collection of Data Structures & Algorithms problems solved in Kotlin
-          </p>
-          <p>
-            <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Clean%20Code-FF6B6B?style=for-the-badge&logo=clean&logoColor=white"/>
-          </p>
-        </div>
-      </td>
-    </tr>
   </table>
 </div>
+
+<br/>
+
+---
 
 <p align="center" style="margin: 20px 0;">
   <i>"In the world of software, excellence is not a destination but a continuous journey of improvement"</i>
