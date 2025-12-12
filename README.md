@@ -81,7 +81,7 @@
         <h3 align="center">Sessions</h3>
         <div align="center">
           <p style="padding: 10px 20px;">
-            Productivity timer app built with Kotlin, Jetpack Compose, Firebase, Room Database, and Material 3. Follows MVVM Clean Architecture to help users maximize focus with session tracking and analytics
+            Productivity timer app built with Jetpack Compose to help users maximize focus with session tracking and analytics
           </p>
           <p>
             <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -95,7 +95,7 @@
         <h3 align="center">Kyoiku</h3>
         <div align="center">
           <p style="padding: 10px 20px;">
-            Educational management app built with Flutter and Dart for seamless teacher-student collaboration. Features real-time chatting, lecture scheduling, and secure note uploading/downloading
+            Educational management app built with Flutter and Dart for seamless teacher-student collaboration, Features real-time chatting
           </p>
           <p>
             <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
