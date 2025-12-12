@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=e65d5d,f07b3f,ea4335,ff9966&height=150&section=header&animation=fadeIn" width="100%">
-</div>
-
-<div align="center">
   <h1 align="center" style="border: 0;margin-top: -70px;">
     <b>Mohammad Ali</b>
   </h1>
@@ -35,10 +31,10 @@
 
 <br/>
 
-- 👨‍💻 I build Android apps with **Kotlin** & **Jetpack Compose** using Clean Architecture and MVVM
-- 📱 Currently working on **Kaizen**, a self-improvement & habit tracking app
-- 🌱 Constantly exploring new tools like **Flutter** and **Ktor** to expand my horizons
-- 🎯 Inspired by craftsmanship and the pursuit of continuous improvement
+- I build Android apps with **Kotlin** & **Jetpack Compose** using Clean Architecture and MVVM
+- Currently working on **Kaizen**, a self-improvement & habit tracking app
+- Constantly exploring new tools like **Flutter** and **Ktor** to expand my horizons
+- Inspired by craftsmanship and the pursuit of continuous improvement
 
 <br/>
 <br/>
