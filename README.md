@@ -25,16 +25,6 @@
 <br/>
 <br/>
 
-<!-- Neural network divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-
-
-
-
-</div>
-
 <h2 align="center">
   <b>About Me</b>
 </h2>
@@ -52,11 +42,6 @@
 
 <br/>
 <br/>
-
-<!-- Neural network divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
 <h2 align="center">
   <b>Tech Stack</b>
@@ -94,79 +79,6 @@
 
 <br/>
 
-<!-- Neural network divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2 align="center">
   <b>Featured Projects</b>
 </h2>
@@ -177,9 +89,6 @@
       <td width="50%">
         <h3 align="center">Kaizen</h3>
         <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/03/41/04/034104234a336e35682bb77db7aba6e7.gif" width="400" alt="Kaizen" style="border-radius: 10px;">
-          </a>
           <p style="padding: 10px 20px;">
             A self-improvement & habit tracking app to help you level up in real life, one habit at a time
           </p>
@@ -193,9 +102,6 @@
       <td width="50%">
         <h3 align="center">Ryori</h3>
         <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/c0/8b/79/c08b79a7c0ecd7685aaf202d8f94fb18.gif" width="400" alt="Ryori" style="border-radius: 10px;">
-          </a>
           <p style="padding: 10px 20px;">
             A recipe discovery app with clean interface that brings delicious recipes right to your fingertips
           </p>
@@ -224,9 +130,6 @@
       <td width="50%">
         <h3 align="center">Shuki</h3>
         <div align="center">
-          <a href="#">
-            <img src="https://i.pinimg.com/originals/48/5e/83/485e83569fff861c92baae936e9d45af.gif" width="400" alt="Shuki" style="border-radius: 10px;">
-          </a>
           <p style="padding: 10px 20px;">
             Offline notes app designed for quick and efficient note-taking
           </p>
@@ -265,13 +168,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<!-- Neural network divider -->
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <p align="center" style="margin: 20px 0;">
