@@ -29,7 +29,7 @@ My apps ship under **Yugen Tech**, my indie label. Two are live on Google Play a
 
 Lately I've been going deep on **AI that's actually useful in an app**: on-device retrieval, grounded answers that don't make things up, and voice interfaces that feel natural.
 
-- 🏢 Interning at **Amatyaa**, building a voice-driven CRM for real estate field agents with Kotlin Multiplatform and Compose Multiplatform.
+- 🏢 **SDE at Amatyaa**, building a voice-driven CRM for real estate field agents with Kotlin Multiplatform and Compose Multiplatform.
 - 🌱 Building **Hajime** (Japanese for Android and iOS) and **Mynt** (a voice money assistant).
 - 💬 Happy to talk about Compose, Clean Architecture, RAG on mobile, or indie app building.
 
