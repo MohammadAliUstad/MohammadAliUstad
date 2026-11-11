@@ -1,55 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Mohammad Ali · Android Developer · Founder, Yugen Tech">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1B0B0D"/>
-      <stop offset="0.55" stop-color="#3A1518"/>
-      <stop offset="1" stop-color="#120708"/>
+      <stop offset="0" stop-color="#5A2329"/>
+      <stop offset="1" stop-color="#1C0B0D"/>
     </linearGradient>
-    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#E8887A" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#E8887A" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#C9A227" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#C9A227" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#8E3B46" stop-opacity="0.6"/>
-      <stop offset="1" stop-color="#8E3B46" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FFE3DC"/>
-      <stop offset="0.5" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#F6C9A8"/>
-    </linearGradient>
-    <clipPath id="card"><rect width="1280" height="420" rx="28"/></clipPath>
-    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#FFFFFF" fill-opacity="0.06"/>
-    </pattern>
     <style>
-      .orb { transform-box: fill-box; transform-origin: center; }
-      .a { animation: driftA 14s ease-in-out infinite alternate; }
-      .b { animation: driftB 18s ease-in-out infinite alternate; }
-      .c { animation: driftC 16s ease-in-out infinite alternate; }
-      @keyframes driftA { from { transform: translate(0, 0) scale(1); } to { transform: translate(90px, 40px) scale(1.15); } }
-      @keyframes driftB { from { transform: translate(0, 0) scale(1.1); } to { transform: translate(-110px, -30px) scale(0.95); } }
-      @keyframes driftC { from { transform: translate(0, 0) scale(1); } to { transform: translate(60px, -50px) scale(1.2); } }
       .font { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     </style>
   </defs>
 
-  <g clip-path="url(#card)">
-    <rect width="1280" height="420" fill="url(#bg)"/>
-    <rect width="1280" height="420" fill="url(#dots)"/>
-    <ellipse class="orb a" cx="230" cy="110" rx="330" ry="250" fill="url(#glowA)"/>
-    <ellipse class="orb b" cx="1080" cy="330" rx="360" ry="260" fill="url(#glowB)"/>
-    <ellipse class="orb c" cx="760" cy="40" rx="300" ry="200" fill="url(#glowC)"/>
-    <rect x="0.5" y="0.5" width="1279" height="419" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
-  </g>
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1279" height="419" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
 
   <g class="font" text-anchor="middle">
-    <text x="640" y="118" fill="#F2B8A8" font-size="20" font-weight="600" letter-spacing="6">ANDROID DEVELOPER · FOUNDER, YUGEN TECH</text>
-    <text x="640" y="212" fill="url(#name)" font-size="84" font-weight="700" letter-spacing="-1">Mohammad Ali</text>
+    <text x="640" y="118" fill="#F2B8A8" font-size="24" font-weight="600" letter-spacing="0.5">Android Developer · Founder, Yugen Tech</text>
+    <text x="640" y="212" fill="#FFF4F1" font-size="84" font-weight="700" letter-spacing="-1">Mohammad Ali</text>
     <text x="640" y="264" fill="#E9D6D2" font-size="24" font-weight="400" fill-opacity="0.85">Calm, crafted apps that people actually use. No ads, no compromises.</text>
   </g>
 
