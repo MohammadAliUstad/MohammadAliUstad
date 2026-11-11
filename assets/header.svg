@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Mohammad Ali, Android Developer and founder of Yugen Tech">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Mohammad Ali · Android Developer · Founder, Yugen Tech">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#1B0B0D"/>
@@ -48,7 +48,7 @@
   </g>
 
   <g class="font" text-anchor="middle">
-    <text x="640" y="118" fill="#F2B8A8" font-size="20" font-weight="600" letter-spacing="6">ANDROID DEVELOPER · FOUNDER OF YUGEN TECH</text>
+    <text x="640" y="118" fill="#F2B8A8" font-size="20" font-weight="600" letter-spacing="6">ANDROID DEVELOPER · FOUNDER, YUGEN TECH</text>
     <text x="640" y="212" fill="url(#name)" font-size="84" font-weight="700" letter-spacing="-1">Mohammad Ali</text>
     <text x="640" y="264" fill="#E9D6D2" font-size="24" font-weight="400" fill-opacity="0.85">Calm, crafted apps that people actually use. No ads, no compromises.</text>
   </g>

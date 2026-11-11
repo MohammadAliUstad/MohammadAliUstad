@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Mohammad Ali, Android Developer and founder of Yugen Tech"/>
+<img src="assets/header.svg" width="100%" alt="Mohammad Ali · Android Developer · Founder, Yugen Tech"/>
 
 <br/><br/>
 
@@ -37,18 +37,7 @@ Lately I've been going deep on **AI that's actually useful in an app**: on-devic
 
 ## 🚀 Live on Google Play
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MohammadAliUstad/Sessions"><img src="https://raw.githubusercontent.com/MohammadAliUstad/Sessions/HEAD/graphics/Feature%20Graphic.png" width="100%" alt="Sessions"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MohammadAliUstad/Quill"><img src="https://raw.githubusercontent.com/MohammadAliUstad/Quill/HEAD/graphics/Feature%20Graphic.png" width="100%" alt="Quill"/></a>
-    </td>
-  </tr>
-</table>
-
-### <img src="assets/icons/sessions.png" width="34" align="top" alt=""/>&nbsp; Sessions: Pomodoro Focus Timer
+### <img src="assets/icons/sessions.svg" width="44" align="top" alt=""/>&nbsp; Sessions: Pomodoro Focus Timer
 
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Get%20it-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.yugentech.sessions)
 [![Source](https://img.shields.io/badge/Open%20source-GPL--3.0-B5524A?style=flat-square&logo=github&logoColor=white)](https://github.com/MohammadAliUstad/Sessions)
@@ -68,7 +57,7 @@ A calm focus timer that's grown into my most loved app. It's free, has no ads, a
 
 <br/>
 
-### <img src="assets/icons/quill.png" width="34" align="top" alt=""/>&nbsp; Quill: AI Book Reader
+### <img src="assets/icons/quill.svg" width="44" align="top" alt=""/>&nbsp; Quill: AI Book Reader
 
 [![Get it on Google Play](https://img.shields.io/badge/Google%20Play-Get%20it-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.yugentech.quill)
 [![Source](https://img.shields.io/badge/Open%20source-Apache%202.0-4F5B2A?style=flat-square&logo=github&logoColor=white)](https://github.com/MohammadAliUstad/Quill)
@@ -92,21 +81,21 @@ An EPUB reader with **Aira**, an AI companion that has actually read your book. 
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/hajime.png" width="76" alt="Hajime"/>
+      <img src="assets/icons/hajime.svg" width="84" alt="Hajime"/>
       <h3>Hajime</h3>
       <sub><b>Learn to read Japanese</b></sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Android%20%2B%20iOS-Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="assets/icons/mynt.png" width="76" alt="Mynt"/>
+      <img src="assets/icons/mynt.svg" width="84" alt="Mynt"/>
       <h3>Mynt</h3>
       <sub><b>Your voice money assistant</b></sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Voice--first-AI%20assistant-3DBE7A?style=flat-square&logo=googlegemini&logoColor=white" alt="Voice-first AI"/>
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/MohammadAliUstad/Ryori"><img src="assets/icons/ryori.png" width="76" alt="Ryori"/></a>
+      <a href="https://github.com/MohammadAliUstad/Ryori"><img src="assets/icons/ryori.svg" width="84" alt="Ryori"/></a>
       <h3>Ryori</h3>
       <sub><b>Cook something wonderful</b></sub>
       <br/><br/>
