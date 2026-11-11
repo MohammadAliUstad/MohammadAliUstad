@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Mohammad Ali · Android Developer · Founder, Yugen Tech">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5A2329"/>
+      <stop offset="1" stop-color="#1C0B0D"/>
+    </linearGradient>
+    <style>
+      .font { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1279" height="419" rx="28" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <g class="font" text-anchor="middle">
+    <text x="640" y="118" fill="#F2B8A8" font-size="24" font-weight="600" letter-spacing="0.5">Android Developer · Founder, Yugen Tech</text>
+    <text x="640" y="212" fill="#FFF4F1" font-size="84" font-weight="700" letter-spacing="-1">Mohammad Ali</text>
+    <text x="640" y="264" fill="#E9D6D2" font-size="24" font-weight="400" fill-opacity="0.85">Calm, crafted apps that people actually use. No ads, no compromises.</text>
+  </g>
+
+  <g class="font" font-size="17" font-weight="600" text-anchor="middle">
+    <rect x="272" y="306" width="120" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="332" y="332" fill="#FBE4DE">Kotlin</text>
+    <rect x="404" y="306" width="196" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="502" y="332" fill="#FBE4DE">Jetpack Compose</text>
+    <rect x="612" y="306" width="236" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <text x="730" y="332" fill="#FBE4DE">Kotlin Multiplatform</text>
+    <rect x="860" y="306" width="148" height="40" rx="20" fill="#E8887A" fill-opacity="0.22" stroke="#E8887A" stroke-opacity="0.5"/>
+    <text x="934" y="332" fill="#FFD9D0">On-device AI</text>
+  </g>
+</svg>
