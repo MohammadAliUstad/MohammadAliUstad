@@ -1,9 +1,6 @@
 <div align="center">
 
 <img src="assets/banner-v21.svg" width="100%" alt="Mohammad Ali · Android Developer · Founder, Yugen Tech"/>
-
-<br/><br/>
-
 <img src="assets/stats.svg" width="100%" alt="6,500+ downloads across apps · 150+ ratings across apps · 0 ads in any app · 9 apps built from scratch"/>
 
 <br/><br/>
